@@ -16,7 +16,7 @@ die() {
 
 git clone https://github.com/lynchli/vimrc.git "$VIMHOME"
 cd "$VIMHOME"
-git submodule update --init
+git update --init
 
 cd ..
 ln -s .vim/vimrc .vimrc
