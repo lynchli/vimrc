@@ -1,2 +1,2 @@
-# vimrc
+# Installation
 my vim settings
