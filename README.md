@@ -1,14 +1,18 @@
 Installation
 ---
 1. Download install script then execute:  
-Use curl (for Mac OS X):  
-    curl -o - https://raw.githubusercontent.com/lynchli/vimrc/master/install.sh | sh
+Use curl (for Mac OS X):
+
+		curl -o - https://raw.githubusercontent.com/lynchli/vimrc/master/install.sh | sh
 or wget (for most UNIX platforms):
-    wget -O - https://raw.githubusercontent.com/lynchli/vimrc/master/install.sh | sh
+
+		wget -O - https://raw.githubusercontent.com/lynchli/vimrc/master/install.sh | sh
 2. open vim:
-    vim
+
+	    vim
 3. Install plugins:
-    :PluginInstall
+		
+		:PluginInstall
  
 
 Tips: Installation need download long time, be patient.
