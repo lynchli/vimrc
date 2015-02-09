@@ -18,6 +18,8 @@ git clone https://github.com/lynchli/vimrc.git "$VIMHOME"
 cd "$VIMHOME"
 git submodule update --init
 
+cd bundle/YouComplete
+
 cd ..
 ln -s .vim/vimrc .vimrc
 

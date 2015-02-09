@@ -70,7 +70,7 @@ set cursorcolumn
 set cursorline
 
 set ruler
-set showmode
+set noshowmode
 
 "==========================================
 " Encoding Settings
